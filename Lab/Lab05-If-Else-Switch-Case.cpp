@@ -75,7 +75,7 @@ int main()
     }
     else
     {
-        printf("please enter number only.");
+        printf("please enter number only. \n");
     }
 
     //--| YOUR CODE HERE
