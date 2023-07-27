@@ -73,9 +73,12 @@ int main()
     {
         printf("F !");
     }
-    else
+    else if( ! score)
     {
         printf("please enter number only. \n");
+    }
+    else{
+        printf("F !");
     }
 
     //--| YOUR CODE HERE
