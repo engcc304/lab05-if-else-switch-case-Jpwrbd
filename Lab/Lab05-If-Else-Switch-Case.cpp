@@ -40,6 +40,7 @@ int main()
     int score = 0;
     printf("enter score : \n");
     scanf("%d", &score);
+    printf("Grade:");
     if (score >= 80)
     {
         printf("A !");
